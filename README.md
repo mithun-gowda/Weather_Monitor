@@ -1,4 +1,4 @@
-![Demo](./weather_readme.gif)
+
 # Weather App
 
 ## Features
